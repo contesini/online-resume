@@ -12,9 +12,9 @@ contact:
   telegram: +55 48 991630603
   website: 
   medium: 
-  linkedin: https://www.linkedin.com/in/allan-contesini-4561a0a1/
-  github: https://github.com/contesini/
-  gitlab: https://gitlab.com/allancontesini
+  linkedin: https://www.linkedin.com/in/allan-contesini-4561a0a1
+  github: https://github.com/contesini
+  gitlab:
   bitbucket:
   twitter: 
   stackoverflow:
@@ -36,7 +36,9 @@ interests:
   items:
     - item: Reading
       link:
-    - item: Cooking
+    - item: Bike
+      link:
+    - item: Rowing
       link:
 
 profile:
@@ -53,26 +55,11 @@ education:
   display: true
   title: Education
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
+    - university: Faculdade Energia
+      time: 2015 - 2017
+      major: System Information
+      degree: Bachelor degree
       details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
         ...
 
 experiences:
@@ -81,7 +68,7 @@ experiences:
   items:
     - role: Backend Developer
       time: 2018.03 - 2019.03
-      company: Second Company
+      company: Bra
       tag:
       location: Beijing
       details: |
@@ -92,15 +79,17 @@ experiences:
         ...
 
     - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
+      time: 2013.03 - 2017.03
+      company: Brazilian Army
+      tag: Full Time
+      location: Florianopolis - Brazil
       details: |
+        During the period in which I served the Brazilian army, I had my first professional contact with the technology area, managing Linux servers, creating automation scripts for administrative routines. Highlighting a software that I developed alone that increased productivity in a task more than 10 times, in addition to discovering a security flaw in a critical system of the Brazilian army.
         Experience in this company:
-        + First
-        + Second
-
+        + Linux system administrator
+        + Windows system administrator
+        + Java developer 
+         
         ...
 
 projects:

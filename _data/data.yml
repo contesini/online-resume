@@ -1,22 +1,22 @@
 intro:
-  name: Foo Bar
-  title: Backend Developer
+  name: Allan Contesini
+  title: Full Stack /DevOps Developer/ Software Engineer/ Software Developer
   avatar:
     display: true
     path: profile.png
 
 contact:
-  email: me@example.com
-  phone: +86-111-2222-3333
-  whatsapp:
-  telegram:
-  website: example.com
-  medium:
-  linkedin:
-  github: github
-  gitlab:
+  email: allancontesini@gmail.com
+  phone: +55 48 991630603 
+  whatsapp: +55 48 991630603
+  telegram: +55 48 991630603
+  website: 
+  medium: 
+  linkedin: https://www.linkedin.com/in/allan-contesini-4561a0a1/
+  github: https://github.com/contesini/
+  gitlab: https://gitlab.com/allancontesini
   bitbucket:
-  twitter: twitter
+  twitter: 
   stackoverflow:
   quora:
   goodreads:
@@ -25,7 +25,7 @@ languages:
   display: true
   title: Languages
   items:
-    - idiom: Chinese
+    - idiom: brazilian portuguese
       level: Native
     - idiom: English
       level: Professional
